@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Kimsumi111/Kimsumi111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,33 +49,30 @@ Here are some ideas to get you started:
 
   Content | Date
   :---:|:---:
-  UNITY 게임 개발 `고나푸스 게임` 제작 | 2021
-  멋쟁이 사자처럼 10기 수료 | 2021
-  방치 자전거 방지를 위한 스마트 자전거 거치대 `The B-rack` 제작 | 2022
-  IoT 자전거 자물쇠 `Rock You` 제작 | 2022
-  커스텀 케이크 도안 제작 웹 `Cake Walk` 제작 및 창업아이디어 대회 수상 | 2022
-  멋쟁이 사자처럼 11기 대표 수료 | 2022
-  경상국립대학교 대동제(학내 축제)페이지 제작 | 2022
-  응급 차량 보조 비행 드론 `Sky Rescure` 제작 | 2023
-  [Duplicate Bug Report Detection By Using Sentence Embedding and Faiss 논문 저자](https://ceur-ws.org/Vol-3655/ISE2023_07_Lee_Duplicate_Bug.pdf) | 2023
-  패스트 캠퍼스 AI LAB 부트캠프 참여 중 | 2024
+  California Insitute of the Arts Introduction to Typography 수료 | 2023
+  UMC Ideathon in 리포 우수상 수상(3위) | 2023
+  UMC 4기 - Design Part 수료 | 2023
+  C# & Unity 초격자 패키지 강의 수강중 | 2024
+  2D Platform 게임 개발 중 | 2024
+  
   
 </br>
 </br>
 </br>
 
-  ## 선호's Tech Blog
+  ## 수미's Tech Blog
 
-  [티스토리 블로그](https://developerahjosea.tistory.com) 
+  [티스토리 블로그](https://snack-game.tistory.com/)
+  
   
 </br>
 </br>
 </br>
 
-  ## 선호's Github status
+  ## 수미's Github status
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsgh531&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsgh531&layout=compact&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnal111&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatnal111&layout=compact&theme=tokyonight)
 
 </br>
 </br>
