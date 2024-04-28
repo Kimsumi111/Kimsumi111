@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 
   ## 수미's Github status
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnal111&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatnal111&layout=compact&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsumi111&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsumi111&layout=compact&theme=tokyonight)
 
 </br>
 </br>
