@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   
   field | skill
   :---:|:---:
-  게임 개발 | <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=gray"> <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  게임 개발 | <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=gray"> <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Cplusplus-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   디자인 | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   
   
