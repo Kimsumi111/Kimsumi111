@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   ## 전공
 
-  경상국립대학교 `항공우주및소프트웨어공학부` 재학
+  경상국립대학교 `항공우주및소프트웨어공학부` 재학 중
   
 
 </br>
