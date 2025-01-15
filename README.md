@@ -53,6 +53,7 @@ Here are some ideas to get you started:
   UMC Ideathon in 리포 우수상 수상(3위) | 2023
   UMC 4기 - Design Part 수료 | 2023
   C# & Unity 초격자 패키지 강의 수강 | 2024
+  멋쟁이사자처럼 포트폴리오 대회 2등 (기간 한 달) | 2024
   멋쟁이사자처럼 유니티 게임 부트캠프 수강 완료 | 2024
   
   
